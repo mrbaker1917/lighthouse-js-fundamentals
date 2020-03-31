@@ -6,6 +6,6 @@ for (let i = 100; i < 201; i++) {
   } else if (i % 4 === 0) {
     console.log("Lighthouse");
   } else {
-  console.log(i);
+    console.log(i);
   }
 }
