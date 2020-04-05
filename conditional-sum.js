@@ -12,7 +12,7 @@ const conditionalSum = function (values, condition) {
     }
   }
   return filteredValuesSum;
-}
+};
 
 console.log(conditionalSum([1, 3, 5, 6, 8], "even"));
 console.log(conditionalSum([1, 2, 3, 4, 5, 6, 7, 201], "odd"));
